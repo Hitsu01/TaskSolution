@@ -1,0 +1,9 @@
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\bin\Debug\TaskSolution.exe.config
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.Properties.Resources.resources
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.csproj.GenerateResource.Cache
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\bin\Debug\TaskSolution.exe
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\bin\Debug\TaskSolution.pdb
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.exe
+c:\Users\Hitsu\documents\visual studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.pdb
+C:\Users\Hitsu\Documents\Visual Studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.csprojResolveAssemblyReference.cache
+C:\Users\Hitsu\Documents\Visual Studio 2015\Projects\TestTask\TaskSolution\obj\Debug\TaskSolution.TaskSolution.resources

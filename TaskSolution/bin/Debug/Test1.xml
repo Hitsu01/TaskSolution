@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>1</Id>
+    <Name>Hitsu1</Name>
+    <FixedPayment>19</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>2</Id>
+    <Name>Hitsu2</Name>
+    <FixedPayment>20</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>3</Id>
+    <Name>Hitsu3</Name>
+    <FixedPayment>13</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>3</Id>
+    <Name>Jitsu3</Name>
+    <FixedPayment>13</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>3</Id>
+    <Name>Aitsu3</Name>
+    <FixedPayment>13</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>4</Id>
+    <Name>Hitsu4</Name>
+    <FixedPayment>20.1</FixedPayment>
+  </Employee>
+</ArrayOfEmployee>
