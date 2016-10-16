@@ -59,7 +59,7 @@ namespace TaskSolution
             EmployeeDataGrid.Columns.Add("EmployeeName", "Name");
 
             int i = 0;
-            foreach (var x in employeeController.GetLastThree())
+            foreach (var x in employeeController.GetFirstFive())
             {
                 EmployeeDataGrid.Rows.Add();
                 EmployeeDataGrid.Rows[i].Cells[0].Value = x.Name;

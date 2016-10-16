@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>1</Id>
+    <Name>A_Employee1</Name>
+    <FixedPayment>190</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>2</Id>
+    <Name>B_Employee2</Name>
+    <FixedPayment>200</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>3</Id>
+    <Name>C_Employee3</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>4</Id>
+    <Name>D_Employee4</Name>
+    <FixedPayment>190</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>5</Id>
+    <Name>E_Employee5</Name>
+    <FixedPayment>200</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>6</Id>
+    <Name>F_Employee6</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>7</Id>
+    <Name>G_Employee7</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>8</Id>
+    <Name>H_Employee8</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>9</Id>
+    <Name>I_Employee9</Name>
+    <FixedPayment>201.1</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>10</Id>
+    <Name>J_Employee10</Name>
+    <FixedPayment>190</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>11</Id>
+    <Name>K_Employee11</Name>
+    <FixedPayment>200</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>12</Id>
+    <Name>L_Employee12</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>13</Id>
+    <Name>M_Employee13</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>14</Id>
+    <Name>N_Employee14</Name>
+    <FixedPayment>130</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>15</Id>
+    <Name>O_Employee15</Name>
+    <FixedPayment>201.1</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>16</Id>
+    <Name>P_Employee16</Name>
+    <FixedPayment>135</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>17</Id>
+    <Name>Q_Employee17</Name>
+    <FixedPayment>138</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeFixedPayment">
+    <Id>18</Id>
+    <Name>R_Employee18</Name>
+    <FixedPayment>2.1</FixedPayment>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>19</Id>
+    <Name>S_Employee19</Name>
+    <HourlyRate>1.1</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>20</Id>
+    <Name>T_Employee20</Name>
+    <HourlyRate>1.3</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>21</Id>
+    <Name>V_Employee21</Name>
+    <HourlyRate>1.6</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>22</Id>
+    <Name>W_Employee22</Name>
+    <HourlyRate>1.9</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>23</Id>
+    <Name>X_Employee23</Name>
+    <HourlyRate>2.1</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>24</Id>
+    <Name>Y_Employee24</Name>
+    <HourlyRate>2</HourlyRate>
+  </Employee>
+  <Employee xsi:type="EmployeeHourlyPayment">
+    <Id>25</Id>
+    <Name>Z_Employee25</Name>
+    <HourlyRate>1.7</HourlyRate>
+  </Employee>
+</ArrayOfEmployee>

@@ -18,7 +18,6 @@ namespace TaskSolution.Manager
         private const int jsonIndex = 2;
         private const int zeroIndex = 0;
         private const int fiveCount = 5;
-        private const int subFour = 4;
         private const int threeCount = 3;
 
         public  List<Employee> listEmployee { get; set; }
@@ -149,7 +148,7 @@ namespace TaskSolution.Manager
         public List<Employee> GetLastThree()
         {
 
-            return listEmployee.GetRange(listEmployee.Count - subFour, threeCount);
+            return listEmployee.GetRange(listEmployee.Count - threeCount, threeCount);
         }
 
 
