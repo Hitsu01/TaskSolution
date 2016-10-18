@@ -8,7 +8,7 @@ namespace TaskSolution
 {
     public partial class TaskSolution : Form
     {
-        EmployeeManager employeeController = new EmployeeManager();
+        EmployeesManager employeeController = new EmployeesManager();
         public TaskSolution()
         {
             InitializeComponent();

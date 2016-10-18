@@ -12,7 +12,7 @@ namespace TaskSolution.Manager
 {
 
 
-    public class EmployeeManager
+    public class EmployeesManager
     {
         private const int xmlIndex = 1;
         private const int jsonIndex = 2;
@@ -23,7 +23,7 @@ namespace TaskSolution.Manager
         public  List<Employee> listEmployee { get; set; }
 
 
-        public EmployeeManager()
+        public EmployeesManager()
         {
 
             //Create some test data
